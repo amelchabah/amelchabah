@@ -7,6 +7,6 @@
 <h4>my most used languages</h4><img src="https://github-readme-stats.vercel.app/api/top-langs?username=amelchabah&layout=compact&hide_title=true&hide_border=true&theme=github_dark"/>
 
 <h4>contact me</h4><br><a href="https://www.linkedin.com/in/amel-chabah/" title="my linkedin" target="_blank"><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-</a>&ensp;&ensp;'&ensp;&ensp;<a href="https://www.linkedin.com/in/amel-chabah/" title="my linkedin" target="_blank"><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" /></a>
+</a>&ensp;&ensp;'&ensp;&ensp;<a href="mailto:amelou518@gmail.com" title="my linkedin" target="_blank"><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" /></a>
   
   
