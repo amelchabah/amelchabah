@@ -9,6 +9,7 @@
   <p>Figma, PS, AI, ID</p>
   <hr>
  
-  <h4>―&ensp;&ensp;contact me</h4><br><a href="https://www.linkedin.com/in/amel-chabah/" title="my linkedin" target="_blank">@amel-chabah
+  <h4>―&ensp;&ensp;contact me</h4>
+  <a href="https://www.linkedin.com/in/amel-chabah/" title="my linkedin" target="_blank">@amel-chabah
 </a><br><a href="mailto:amelchabah.pro@gmail.com" title="my mail" target="_blank">amelchabah.pro@gmail.com</a>
 </div>
