@@ -2,13 +2,9 @@
   <h2>✦&ensp;&ensp;welcome <3</h2>
 <div>
   <h4>―&ensp;&ensp;i like coding & design</h4>
-  <br>
   <p>SASS, ReactJS, NextJS, NodeJS, ThreeJS, D3JS, GSAP</p>
-  <br>
   <p>SQL, PHP (POO, MVC), Symfony, Postman, Unity</p>
-  <br>
   <p>SEO, Wordpress, Linux, Docker, Azure</p>
-  <br>
   <p>Figma, PS, AI, ID</p>
 
   </div>
