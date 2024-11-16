@@ -3,8 +3,8 @@
   <h4>―&ensp;&ensp;my most used languages</h4><img src="https://github-readme-stats.vercel.app/api/top-langs?username=amelchabah&layout=compact&hide_title=true&hide_border=true&theme=github_dark"/>
   <hr>
  <h4>―&ensp;&ensp;i like coding & design</h4>
-  <p>SASS, ReactJS, NextJS, NodeJS, ThreeJS, D3JS, GSAP</p>
-  <p>SQL, PHP (POO, MVC), Symfony, Postman, Unity, R3F, React Native (still learning)</p>
+  <p>SASS, ReactJS, NextJS, NodeJS, GSAP, ThreeJS, R3F, D3JS</p>
+  <p>SQL, PHP (POO, MVC), Symfony, Postman, Unity, React Native (still learning)</p>
   <p>SEO, Wordpress, Linux, Docker, Azure</p>
   <p>Figma, PS, AI, ID</p>
   <hr>
