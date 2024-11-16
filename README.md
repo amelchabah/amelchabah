@@ -4,7 +4,7 @@
   <hr>
  <h4>―&ensp;&ensp;i like coding & design</h4>
   <p>SASS, ReactJS, NextJS, NodeJS, ThreeJS, D3JS, GSAP</p>
-  <p>SQL, PHP (POO, MVC), Symfony, Postman, Unity</p>
+  <p>SQL, PHP (POO, MVC), Symfony, Postman, Unity, R3F, React Native (still learning)</p>
   <p>SEO, Wordpress, Linux, Docker, Azure</p>
   <p>Figma, PS, AI, ID</p>
   <hr>
