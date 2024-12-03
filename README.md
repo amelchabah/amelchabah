@@ -11,6 +11,8 @@ jira & confluence, scrum/agile, kanban, notion <3<br/>
 </p>
  
   <h4>contact me</h4>
-  <a href="https://www.linkedin.com/in/amel-chabah/" title="my linkedin" target="_blank">@amel-chabah
+  <a href="https://bento.me/amelchabah" title="my bento" target="_blank">bento/amelchabah
+</a><br>
+  <a href="https://www.linkedin.com/in/amel-chabah/" title="my linkedin" target="_blank">linkedin/amel-chabah
 </a><br><a href="mailto:amelchabah.pro@gmail.com" title="my mail" target="_blank">amelchabah.pro@gmail.com</a>
 </div>
