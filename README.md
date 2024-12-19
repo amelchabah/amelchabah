@@ -1,8 +1,15 @@
 <h3>welcome ◡̈</h3>
 <!-- <h4>my most used languages</h4> -->
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amelchabah&layout=compact&hide_title=true&hide_border=true&theme=github_dark" /> -->
-<img src="https://storage.googleapis.com/creatorspace-public/users%2Fclpppyff800bykz01j0efj9wy%2FbjiYrB4YdZMtKN7W-idcard2.gif" />
 
+<table>
+  <tr>
+    <td>
+      
+<img src="https://storage.googleapis.com/creatorspace-public/users%2Fclpppyff800bykz01j0efj9wy%2FbjiYrB4YdZMtKN7W-idcard2.gif" />
+    </td>
+    <td>
+      
 <h4>i like coding & design</h4>
 <p>scss, react.js, next.js, gsap, node.js, three.js<br/>
 sql/mysql, symfony/twig, tailwindcss, accessibility, seo<br/>
@@ -18,3 +25,8 @@ jira & confluence, scrum/agile, kanban, notion <3<br/>
   <a href="https://www.linkedin.com/in/amelchabah/" title="my linkedin" target="_blank">linkedin/amelchabah
 </a><br><a href="mailto:amelchabah.pro@gmail.com" title="my mail" target="_blank">amelchabah.pro@gmail.com</a>
 </div>
+    </td>
+
+  </tr>
+
+</table>
