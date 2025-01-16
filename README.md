@@ -3,7 +3,7 @@
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amelchabah&layout=compact&hide_title=true&hide_border=true&theme=github_dark" /> -->      
 <img src="https://storage.googleapis.com/creatorspace-public/users%2Fclpppyff800bykz01j0efj9wy%2FbjiYrB4YdZMtKN7W-idcard2.gif" />    
 <h4>i like coding & design</h4>
-<p>scss, react.js, next.js, gsap, node.js, three.js<br/>
+<p>react.js, next.js, scss, gsap, node.js, three.js<br/>
 sql/mysql, symfony/twig, tailwindcss, accessibility, seo<br/>
 docker, linux, wordpress, r3f, react native<br/>
 git & github, gitlab, office, google workspace<br/>
