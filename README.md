@@ -4,8 +4,8 @@
 <!-- <img src="https://storage.googleapis.com/creatorspace-public/users%2Fclpppyff800bykz01j0efj9wy%2Fra6Xx7DNcYQ4didx-idcard3.gif" /> --> 
 <img src="https://raw.githubusercontent.com/amelchabah/readmeimage/refs/heads/main/visitcard.png?token=GHSAT0AAAAAADTEALQJBZAQYQHWWC6CVSJY2MMV52Q" />
 <h4>i like coding & design</h4>
-<p>react.js, next.js, scss, gsap, node.js, three.js<br/>
-sql/mysql, symfony/twig, tailwindcss, accessibility, seo<br/>
+<p>react, nextjs, scss, tailwind, gsap, threejs<br/>
+sql, nodejs, symfony/twig, accessibility, seo<br/>
 docker, linux, wordpress, r3f, react native<br/>
 git & github, gitlab, office, google workspace<br/>
 jira & confluence, scrum/agile, kanban, notion <3<br/>
